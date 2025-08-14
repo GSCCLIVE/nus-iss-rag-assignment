@@ -2,11 +2,9 @@
 
 
 ## GitHub 
-https://github.com/GSCCLIVE/nus-iss-rag-assignment.git
-
-## Database
 
 ## Requirement
+- Chroma
 
 ## Planning
 - We are bookstore, we want to have LLM that recommends books to users asking.
@@ -17,4 +15,4 @@ https://github.com/GSCCLIVE/nus-iss-rag-assignment.git
 ## How to present
 Using jypter books to demostrate step by step action in doing RAG
 
-- Chroma to breakdown document into chunks in database
+- Using Chroma as the vector database, breakdown document into chunks
